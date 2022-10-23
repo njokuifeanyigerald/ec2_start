@@ -1,1 +1,0 @@
-it start ec2 at a particular interval, let's say 6am
